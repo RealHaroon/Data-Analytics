@@ -1,0 +1,25 @@
+# Ignore Excel temporary/lock files
+~$*.xlsx
+*.tmp
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore large raw data files (optional)
+*.csv
+*.tsv
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
