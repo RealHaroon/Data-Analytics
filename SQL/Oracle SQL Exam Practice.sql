@@ -240,3 +240,5 @@ FROM courses c
 RIGHT JOIN students s
 ON c.student_id = s.student_id 
 GROUP BY s.name,c.course_name,s.department;
+
+SELECT * FROM students;
