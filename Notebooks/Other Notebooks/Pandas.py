@@ -23,5 +23,3 @@ print(first)   # 1
 print(second)  # 2
 print(others)  # [3, 4, 5, 6] -> All the rest go here!
 
-
-
